@@ -1,0 +1,4 @@
+Invoking command in '/home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs': /usr/bin/cmake --build /home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs -- -j32 -l32
+Invoked command in '/home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs' returned '0': /usr/bin/cmake --build /home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs -- -j32 -l32
+Invoking command in '/home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs': /usr/bin/cmake --install /home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs
+Invoked command in '/home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs' returned '0': /usr/bin/cmake --install /home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs

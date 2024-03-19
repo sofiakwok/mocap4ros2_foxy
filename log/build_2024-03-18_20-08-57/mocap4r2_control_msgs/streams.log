@@ -1,0 +1,109 @@
+[1.093s] Invoking command in '/home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs': CMAKE_PREFIX_PATH=/home/sofia/bolt_hardware/workspace/install/reactive_planners:/home/sofia/bolt_hardware/workspace/install/mim_control:/home/sofia/bolt_hardware/workspace/install/bolt:/home/sofia/bolt_hardware/workspace/install/dynamic_graph_manager:/home/sofia/bolt_hardware/workspace/install/dg_tools:/home/sofia/bolt_hardware/workspace/install/yaml_utils:/home/sofia/bolt_hardware/workspace/install/dg_vicon_sdk:/home/sofia/bolt_hardware/workspace/install/vicon_sdk:/home/sofia/bolt_hardware/workspace/install/slider_box:/home/sofia/bolt_hardware/workspace/install/shared_memory:/home/sofia/bolt_hardware/workspace/install/serialization_utils:/home/sofia/bolt_hardware/workspace/install/real_time_tools:/home/sofia/bolt_hardware/workspace/install/robot_properties_solo:/home/sofia/bolt_hardware/workspace/install/robot_properties_bolt:/home/sofia/bolt_hardware/workspace/install/dg_demos:/opt/ros/foxy:/home/sofia/bolt_hardware/workspace/install/odri_control_interface:/home/sofia/bolt_hardware/workspace/install/pybind11:/home/sofia/bolt_hardware/workspace/install/mpi_cmake_modules:/home/sofia/bolt_hardware/workspace/install/mim_msgs:/home/sofia/bolt_hardware/workspace/install/master_board_sdk:/home/sofia/bolt_hardware/workspace/install/googletest-distribution:/opt/openrobots: /usr/bin/cmake --build /home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs -- -j32 -l32
+[1.146s] [  2%] Built target mocap4r2_control_msgs__cpp
+[1.147s] [ 12%] Built target mocap4r2_control_msgs__rosidl_generator_c
+[1.166s] [ 23%] Built target mocap4r2_control_msgs__rosidl_typesupport_cpp
+[1.166s] [ 33%] Built target mocap4r2_control_msgs__rosidl_typesupport_introspection_c
+[1.167s] [ 43%] Built target mocap4r2_control_msgs__rosidl_typesupport_introspection_cpp
+[1.167s] [ 53%] Built target mocap4r2_control_msgs__rosidl_typesupport_c
+[1.172s] [ 64%] Built target mocap4r2_control_msgs__rosidl_typesupport_fastrtps_cpp
+[1.196s] [ 74%] Built target mocap4r2_control_msgs__rosidl_typesupport_fastrtps_c
+[1.218s] [ 74%] Built target mocap4r2_control_msgs
+[1.237s] [ 76%] Built target mocap4r2_control_msgs__py
+[1.261s] [ 84%] Built target mocap4r2_control_msgs__python
+[1.284s] [ 89%] Built target mocap4r2_control_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.287s] [ 94%] Built target mocap4r2_control_msgs__rosidl_typesupport_c__pyext
+[1.287s] [100%] Built target mocap4r2_control_msgs__rosidl_typesupport_introspection_c__pyext
+[1.298s] Invoked command in '/home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs' returned '0': CMAKE_PREFIX_PATH=/home/sofia/bolt_hardware/workspace/install/reactive_planners:/home/sofia/bolt_hardware/workspace/install/mim_control:/home/sofia/bolt_hardware/workspace/install/bolt:/home/sofia/bolt_hardware/workspace/install/dynamic_graph_manager:/home/sofia/bolt_hardware/workspace/install/dg_tools:/home/sofia/bolt_hardware/workspace/install/yaml_utils:/home/sofia/bolt_hardware/workspace/install/dg_vicon_sdk:/home/sofia/bolt_hardware/workspace/install/vicon_sdk:/home/sofia/bolt_hardware/workspace/install/slider_box:/home/sofia/bolt_hardware/workspace/install/shared_memory:/home/sofia/bolt_hardware/workspace/install/serialization_utils:/home/sofia/bolt_hardware/workspace/install/real_time_tools:/home/sofia/bolt_hardware/workspace/install/robot_properties_solo:/home/sofia/bolt_hardware/workspace/install/robot_properties_bolt:/home/sofia/bolt_hardware/workspace/install/dg_demos:/opt/ros/foxy:/home/sofia/bolt_hardware/workspace/install/odri_control_interface:/home/sofia/bolt_hardware/workspace/install/pybind11:/home/sofia/bolt_hardware/workspace/install/mpi_cmake_modules:/home/sofia/bolt_hardware/workspace/install/mim_msgs:/home/sofia/bolt_hardware/workspace/install/master_board_sdk:/home/sofia/bolt_hardware/workspace/install/googletest-distribution:/opt/openrobots: /usr/bin/cmake --build /home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs -- -j32 -l32
+[1.384s] Invoking command in '/home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs': CMAKE_PREFIX_PATH=/home/sofia/bolt_hardware/workspace/install/reactive_planners:/home/sofia/bolt_hardware/workspace/install/mim_control:/home/sofia/bolt_hardware/workspace/install/bolt:/home/sofia/bolt_hardware/workspace/install/dynamic_graph_manager:/home/sofia/bolt_hardware/workspace/install/dg_tools:/home/sofia/bolt_hardware/workspace/install/yaml_utils:/home/sofia/bolt_hardware/workspace/install/dg_vicon_sdk:/home/sofia/bolt_hardware/workspace/install/vicon_sdk:/home/sofia/bolt_hardware/workspace/install/slider_box:/home/sofia/bolt_hardware/workspace/install/shared_memory:/home/sofia/bolt_hardware/workspace/install/serialization_utils:/home/sofia/bolt_hardware/workspace/install/real_time_tools:/home/sofia/bolt_hardware/workspace/install/robot_properties_solo:/home/sofia/bolt_hardware/workspace/install/robot_properties_bolt:/home/sofia/bolt_hardware/workspace/install/dg_demos:/opt/ros/foxy:/home/sofia/bolt_hardware/workspace/install/odri_control_interface:/home/sofia/bolt_hardware/workspace/install/pybind11:/home/sofia/bolt_hardware/workspace/install/mpi_cmake_modules:/home/sofia/bolt_hardware/workspace/install/mim_msgs:/home/sofia/bolt_hardware/workspace/install/master_board_sdk:/home/sofia/bolt_hardware/workspace/install/googletest-distribution:/opt/openrobots: /usr/bin/cmake --install /home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs
+[1.394s] -- Install configuration: ""
+[1.395s] -- Execute custom install script
+[1.396s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/ament_index/resource_index/rosidl_interfaces/mocap4r2_control_msgs
+[1.396s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/control.h
+[1.396s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__functions.h
+[1.396s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__struct.h
+[1.397s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__type_support.h
+[1.397s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__functions.h
+[1.397s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__struct.h
+[1.398s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__type_support.h
+[1.398s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/mocap_info.h
+[1.398s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.398s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/library_path.sh
+[1.398s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/library_path.dsv
+[1.399s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__rosidl_typesupport_fastrtps_c.h
+[1.399s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__rosidl_typesupport_fastrtps_c.h
+[1.400s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.400s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_typesupport_fastrtps_c.so
+[1.401s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__rosidl_typesupport_fastrtps_cpp.hpp
+[1.401s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__rosidl_typesupport_fastrtps_cpp.hpp
+[1.401s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.402s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.402s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__rosidl_typesupport_introspection_c.h
+[1.402s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__rosidl_typesupport_introspection_c.h
+[1.402s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.402s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/control.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__builder.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__struct.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__traits.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__type_support.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__builder.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__struct.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__traits.hpp
+[1.403s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__type_support.hpp
+[1.404s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/mocap_info.hpp
+[1.404s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.404s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/control__rosidl_typesupport_introspection_cpp.hpp
+[1.404s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/msg/detail/mocap_info__rosidl_typesupport_introspection_cpp.hpp
+[1.404s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/pythonpath.sh
+[1.404s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/pythonpath.dsv
+[1.405s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/__init__.py
+[1.405s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/msg/__init__.py
+[1.405s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/msg/_control.py
+[1.405s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/msg/_mocap_info.py
+[1.405s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/mocap4r2_control_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[1.406s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/mocap4r2_control_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[1.406s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages/mocap4r2_control_msgs/mocap4r2_control_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[1.406s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__python.so
+[1.406s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/msg/Control.idl
+[1.406s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/msg/MocapInfo.idl
+[1.406s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/msg/Control.msg
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/msg/MocapInfo.msg
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/mocap4r2_control_bridge_mapping_rule.yaml
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/ament_index/resource_index/package_run_dependencies/mocap4r2_control_msgs
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/ament_index/resource_index/parent_prefix_path/mocap4r2_control_msgs
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/ament_prefix_path.sh
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/ament_prefix_path.dsv
+[1.407s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/path.sh
+[1.408s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/environment/path.dsv
+[1.408s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/local_setup.bash
+[1.408s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/local_setup.sh
+[1.408s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/local_setup.zsh
+[1.408s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/local_setup.dsv
+[1.408s] -- Symlinking: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/package.dsv
+[1.417s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/ament_index/resource_index/packages/mocap4r2_control_msgs
+[1.417s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/rosidl_cmake-extras.cmake
+[1.417s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.417s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.418s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.418s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.418s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.418s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.419s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgsConfig.cmake
+[1.419s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgsConfig-version.cmake
+[1.419s] -- Up-to-date symlink: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/package.xml
+[1.419s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_generator_c.so
+[1.420s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_typesupport_introspection_c.so
+[1.420s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_typesupport_c.so
+[1.420s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_typesupport_introspection_cpp.so
+[1.421s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/lib/libmocap4r2_control_msgs__rosidl_typesupport_cpp.so
+[1.454s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_generator_cExport.cmake
+[1.455s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.455s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.456s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.456s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_cExport.cmake
+[1.456s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.457s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_generator_cppExport.cmake
+[1.457s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.457s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.457s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_cppExport.cmake
+[1.457s] -- Up-to-date: /home/sofia/mocap4r2_ws/install/mocap4r2_control_msgs/share/mocap4r2_control_msgs/cmake/mocap4r2_control_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.813s] Invoked command in '/home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs' returned '0': CMAKE_PREFIX_PATH=/home/sofia/bolt_hardware/workspace/install/reactive_planners:/home/sofia/bolt_hardware/workspace/install/mim_control:/home/sofia/bolt_hardware/workspace/install/bolt:/home/sofia/bolt_hardware/workspace/install/dynamic_graph_manager:/home/sofia/bolt_hardware/workspace/install/dg_tools:/home/sofia/bolt_hardware/workspace/install/yaml_utils:/home/sofia/bolt_hardware/workspace/install/dg_vicon_sdk:/home/sofia/bolt_hardware/workspace/install/vicon_sdk:/home/sofia/bolt_hardware/workspace/install/slider_box:/home/sofia/bolt_hardware/workspace/install/shared_memory:/home/sofia/bolt_hardware/workspace/install/serialization_utils:/home/sofia/bolt_hardware/workspace/install/real_time_tools:/home/sofia/bolt_hardware/workspace/install/robot_properties_solo:/home/sofia/bolt_hardware/workspace/install/robot_properties_bolt:/home/sofia/bolt_hardware/workspace/install/dg_demos:/opt/ros/foxy:/home/sofia/bolt_hardware/workspace/install/odri_control_interface:/home/sofia/bolt_hardware/workspace/install/pybind11:/home/sofia/bolt_hardware/workspace/install/mpi_cmake_modules:/home/sofia/bolt_hardware/workspace/install/mim_msgs:/home/sofia/bolt_hardware/workspace/install/master_board_sdk:/home/sofia/bolt_hardware/workspace/install/googletest-distribution:/opt/openrobots: /usr/bin/cmake --install /home/sofia/mocap4r2_ws/build/mocap4r2_control_msgs

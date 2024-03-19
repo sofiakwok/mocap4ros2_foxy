@@ -1,0 +1,11 @@
+/home/sofia/mocap4r2_ws/mocap4r2/mocap4r2_control/rqt_mocap4r2_control/include/rqt_mocap4r2_control/SystemController.hpp:0: Note: No relevant classes found. No output generated.
+[ 12%] [34m[1mGenerating include/rqt_mocap4r2_control/moc_SystemController.cpp[0m
+[ 25%] [34m[1mGenerating include/rqt_mocap4r2_control/moc_mocap4r2_control.cpp[0m
+[ 37%] [34m[1mGenerating ui_mocap4r2_control.h[0m
+[35m[1mScanning dependencies of target rqt_mocap4r2_control[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rqt_mocap4r2_control.dir/src/rqt_mocap4r2_control/mocap4r2_control.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/rqt_mocap4r2_control.dir/src/rqt_mocap4r2_control/SystemController.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rqt_mocap4r2_control.dir/include/rqt_mocap4r2_control/moc_SystemController.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/rqt_mocap4r2_control.dir/include/rqt_mocap4r2_control/moc_mocap4r2_control.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library librqt_mocap4r2_control.so[0m
+[100%] Built target rqt_mocap4r2_control

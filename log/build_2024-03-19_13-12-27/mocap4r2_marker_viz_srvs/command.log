@@ -1,0 +1,4 @@
+Invoking command in '/home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs': /usr/bin/cmake --build /home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs -- -j32 -l32
+Invoked command in '/home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs' returned '0': /usr/bin/cmake --build /home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs -- -j32 -l32
+Invoking command in '/home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs': /usr/bin/cmake --install /home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs
+Invoked command in '/home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs' returned '0': /usr/bin/cmake --install /home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs

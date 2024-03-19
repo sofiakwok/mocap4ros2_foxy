@@ -1,0 +1,11 @@
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/install/local.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/install.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/list_install_components.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/rebuild_cache.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/edit_cache.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/test.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/mocap4r2_dummy_driver_main.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/install/strip.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/mocap4r2_dummy_driver.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/mocap4r2_dummy_driver_uninstall.dir
+/home/sofia/mocap4r2_ws/build/mocap4r2_dummy_driver/CMakeFiles/uninstall.dir
