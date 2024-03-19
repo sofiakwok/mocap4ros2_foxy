@@ -1,1 +1,0 @@
-/home/sofia/mocap4r2_ws/build/mocap4r2_robot_gt_msgs/rosidl_cmake/srv/SetGTOrigin_Response.msg

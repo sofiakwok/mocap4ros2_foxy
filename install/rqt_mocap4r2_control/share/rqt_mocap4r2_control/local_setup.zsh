@@ -1,1 +1,0 @@
-/home/sofia/mocap4r2_ws/build/rqt_mocap4r2_control/ament_cmake_environment_hooks/local_setup.zsh

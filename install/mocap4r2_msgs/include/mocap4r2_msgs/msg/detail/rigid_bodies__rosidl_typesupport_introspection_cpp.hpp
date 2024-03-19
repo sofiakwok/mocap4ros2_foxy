@@ -1,1 +1,0 @@
-/home/sofia/mocap4r2_ws/build/mocap4r2_msgs/rosidl_typesupport_introspection_cpp/mocap4r2_msgs/msg/detail/rigid_bodies__rosidl_typesupport_introspection_cpp.hpp

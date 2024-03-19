@@ -1,1 +1,0 @@
-/home/sofia/mocap4r2_ws/mocap_msgs/msg/Marker.msg

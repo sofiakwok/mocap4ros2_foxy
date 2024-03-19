@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target mocap4r2_dummy_driver[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/mocap4r2_dummy_driver.dir/src/mocap4r2_dummy_driver/mocap4r2_dummy_driver.cpp.o[0m
-[ 50%] [32m[1mLinking CXX static library libmocap4r2_dummy_driver.a[0m
-[ 50%] Built target mocap4r2_dummy_driver
-[35m[1mScanning dependencies of target mocap4r2_dummy_driver_main[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/mocap4r2_dummy_driver_main.dir/src/mocap4r2_dummy_driver_main.cpp.o[0m
-[100%] [32m[1mLinking CXX executable mocap4r2_dummy_driver_main[0m
-[100%] Built target mocap4r2_dummy_driver_main

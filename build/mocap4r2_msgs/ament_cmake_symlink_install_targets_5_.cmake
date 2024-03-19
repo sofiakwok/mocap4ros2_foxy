@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/sofia/mocap4r2_ws/build/mocap4r2_msgs/rosidl_generator_py/mocap4r2_msgs/libmocap4r2_msgs__python.so" "TARGETS" "mocap4r2_msgs__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

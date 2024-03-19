@@ -1,1 +1,0 @@
-/home/sofia/mocap4r2_ws/build/mocap4r2_marker_viz_srvs/rosidl_cmake/srv/SetMarkerColor_Response.msg
