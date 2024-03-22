@@ -1,1 +1,7 @@
-Copied from https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack/blob/rolling/mocap4r2_optitrack_driver/src/mocap4r2_optitrack_driver/mocap4r2_optitrack_driver.cpp
+Copied from https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack
+
+Instructions:
+1. source ```/opt/ros/foxy/setup.bash```
+2. source ```mocap4r2_ws/install/setup.bash```
+3. ```ros2 launch mocap4r2_optitrack_driver optitrack2.launch.py```
+4. ```ros2 lifecycle set /mocap4r2_optitrack_driver_node activate```
